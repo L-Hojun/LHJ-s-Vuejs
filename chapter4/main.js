@@ -1,5 +1,5 @@
 import Vue from 'vue';
 
-import reponseCheck from './reponse-check';
+import reponseCheck from './ReponseCheck';
 
 new Vue(reponseCheck).$mount('#app');
